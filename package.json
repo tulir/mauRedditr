@@ -1,0 +1,13 @@
+{
+  "title": "mauRedditr",
+  "name": "mauredditr",
+  "version": "0.1.0",
+  "description": "An addon that makes it easier to go to previously unvisited subreddits and users with just the name.",
+  "main": "index.js",
+  "author": "Tulir293",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT"
+}
